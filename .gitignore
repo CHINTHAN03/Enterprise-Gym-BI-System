@@ -1,0 +1,10 @@
+# Compiled class file
+*.class
+
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
