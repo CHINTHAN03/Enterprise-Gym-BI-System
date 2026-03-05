@@ -2,7 +2,8 @@
 
 A professional-grade Java Swing application designed for gym administrators to manage member lifecycles and visualize business health through real-time financial analytics.
 
-![Project Preview](https://via.placeholder.com/800x450?text=Insert+Your+Dashboard+Screenshot+Here)
+<img width="1837" height="971" alt="proj_screenshot" src="https://github.com/user-attachments/assets/851c1b5e-b946-4837-8380-14c09e6f7610" />
+
 
 ##  Key Features
 
